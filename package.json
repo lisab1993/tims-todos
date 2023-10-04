@@ -1,0 +1,12 @@
+{
+  "name": "tims-todos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Error:oops, outside file running \" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
